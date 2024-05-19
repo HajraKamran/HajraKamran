@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **asic design**
 
-- 👨‍💻 All of my projects are available at [https://github.com/HajraKamran](https://github.com/HajraKamran)
+- 👨‍💻 All of my projects are available at [https://www.linkedin.com/feed/]
 
 - 💬 Ask me about **verilog,c++,python**
 

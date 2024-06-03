@@ -3,7 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hajrakamran&label=Profile%20views&color=0e75b6&style=flat" alt="hajrakamran" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hajrakamran" alt="hajrakamran" /></a> </p>
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=arhamhashmi01&theme=darkhub" alt="arhamhashmi01" />
+  </a>
+</p>
 
 - 🔭 I’m currently working on **openlane/vlsi/asic**
 

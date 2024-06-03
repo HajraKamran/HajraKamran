@@ -9,6 +9,8 @@
   </a>
 </p>
 
+<img align="right" alt="micro chip" width="300" src="https://i.makeagif.com/media/2-02-2023/BboWfJ.gif">
+
 - 🔭 I’m currently working on **openlane/vlsi/asic**
 
 - 🌱 I’m currently learning **asic design**
